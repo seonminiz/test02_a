@@ -4,3 +4,4 @@ class Calculator {
          System.out.println(“덧셈 결과: ” + (a+b));
     }
 }
+입력 내용에 뺄셈 결과를 추가하시오.
